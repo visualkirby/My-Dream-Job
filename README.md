@@ -1,4 +1,5 @@
 Section 1
+
 My Dream Job by Region
 https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Region.pdf
 
@@ -26,7 +27,9 @@ Expected Outcome:
 By the end of this project, I will have a clear understanding of which regions offer the best opportunities for my dream job as a Supply Chain Analyst. This will guide my job search, networking efforts, and long-term career planning.  
 
 Section 2
+
 My Dream Job by Industry  
+https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Industry.pdf
 
 Objective: 
 To determine the best industry for pursuing a career as a Supply Chain Analyst, focusing on stability, low risk, and alignment with my skills and work experience.  
