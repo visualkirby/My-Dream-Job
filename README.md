@@ -45,6 +45,8 @@ By the end of this project, I will have a clear understanding of which industry 
 
 Section 3
 
+https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Company.pdf
+
 Objective:  
 This project identifies the optimal company for my career as a Supply Chain Analyst within the Consumer Staples industry across Illinois and Virginia, prioritizing stability, financial health, and alignment with my professional experience at Whole Foods, UPS, and Walmart.  
 
