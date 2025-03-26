@@ -17,9 +17,6 @@ Industries of Focus:
 - Industrials: Capital Goods, Commercial & Professional Services, Transportation.  
 - Information Technology: Software & Services, Technology Hardware & Equipment, Semiconductors & Semiconductor Equipment.  
 
-Regions Analyzed:  
-- Virginia, Illinois, Texas, New York, California, and North Carolina.  
-
 Methodology:  
 Using regional data on enterprise distribution, economic activity, and firm performance, this project identifies the most promising regions for a Supply Chain Analyst role. The analysis focuses on regions with a high concentration of enterprises, strong economic activity, and a high proportion of profitable firms.  
 
@@ -40,13 +37,24 @@ This project analyzes three key industries—Consumer Staples, Industrials, and 
 2. Growth: Analyzing revenue growth rates, net income growth, and market capitalization trends to understand the growth potential of each industry.  
 3. Financial Health: Evaluating liquidity, debt levels, and cash flow to determine the financial stability and risk profile of each industry.  
 
-Industries of Focus:  
-- Consumer Staples: Includes food & staples retailing, food, beverage & tobacco, and household & personal products.  
-- Industrials: Includes capital goods, commercial & professional services, and transportation.  
-- Information Technology: Includes software & services, technology hardware & equipment, and semiconductors & semiconductor equipment.  
-
 Methodology:  
 Using industry benchmark data, this project compares the profitability, growth, and financial health of the three industries. The analysis focuses on identifying industries that offer stability and low risk, which are critical for someone just starting their career as a Supply Chain Analyst. The project also considers my previous work experience at Whole Foods, UPS, and Walmart, which has provided me with valuable skills in supply chain operations, logistics, and retail distribution.  
 
 Expected Outcome:  
 By the end of this project, I will have a clear understanding of which industry aligns best with my career goals, skills, and work experience. This will guide my job search and help me focus on industries that offer the most stability and growth potential for a Supply Chain Analyst role.  
+
+Section 3
+
+Objective:  
+This project identifies the optimal company for my career as a Supply Chain Analyst within the Consumer Staples industry across Illinois and Virginia, prioritizing stability, financial health, and alignment with my professional experience at Whole Foods, UPS, and Walmart.  
+
+Scope & Methodology: 
+1. Company Selection: Analyzed 10 major Consumer Staples companies (e.g., Altria Group, Tootsie Roll Industries, Kellanova) based on:  
+   - Profitability: Operating Margin, ROA, Net Margin.  
+   - Growth: Revenue, Net Income, and Market Cap trends.  
+   - Financial Health: Liquidity (Current Ratio) and debt (Liability/Asset Ratio).  
+2. Data Tools: Used Operating Margin vs. Revenue and ROA vs. Liability Ratio frameworks to map the "profit frontier."  
+3. Risk Assessment: Evaluated trade-offs between stability (e.g., Altria) and growth (e.g., Lifeway Foods).  
+
+Outcome:  
+This analysis guides my job search toward stable, high-margin companies while acknowledging growth opportunities for future career stages. 
