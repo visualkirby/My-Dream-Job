@@ -1,0 +1,101 @@
+{
+  "project_id": "PROJ_MY_DREAM_JOB_STRATEGY",
+  "group_id": "PROJECT_GROUP_CAREER_STRATEGY",
+
+  "title": "My Dream Job Analysis",
+  "short_summary": "Structured analysis of target roles, skills, and career positioning strategy",
+  "summary": "Career strategy and analytics project focused on defining an ideal role profile, identifying skill gaps, and aligning technical and domain experience with long-term professional goals. Combines qualitative reasoning with structured analysis to guide portfolio development and job targeting.",
+
+  "role_scope": "base|operations|supply_chain",
+
+  "skills": [
+    "Career Strategy",
+    "Role Analysis",
+    "Skill Gap Analysis",
+    "Data Analysis",
+    "Self-Assessment",
+    "Strategic Planning"
+  ],
+
+  "domains": [
+    "career_strategy",
+    "role_definition",
+    "skills_alignment",
+    "professional_development"
+  ],
+
+  "tags": [
+    "career_analysis",
+    "dream_job",
+    "role_strategy",
+    "skill_mapping",
+    "portfolio_planning"
+  ],
+
+  "datasets": [
+    {
+      "dataset_key": "analysis_notes",
+      "dataset_value": "Dream Job Role Criteria and Skill Mapping",
+      "dataset_link": ""
+    }
+  ],
+
+  "components": [
+    {
+      "component_id": "COMP_DREAM_JOB_ROLE_DEFINITION",
+      "name": "Target Role Definition",
+      "component_type": "strategic_analysis",
+      "deliverable_type": "document",
+      "objective": "Define the characteristics, responsibilities, and expectations of an ideal target role",
+      "business_value": "Provides a clear benchmark for evaluating job opportunities and aligning portfolio projects",
+      "files": [
+        "My_Dream_Job.md",
+        "README.md"
+      ],
+      "tools": [
+        { "tool_label": "Markdown", "tool_keyword": "markdown" }
+      ],
+      "skills": [
+        { "skill_keyword": "role_analysis", "weight": 0.6 },
+        { "skill_keyword": "strategic_thinking", "weight": 0.4 }
+      ]
+    },
+
+    {
+      "component_id": "COMP_DREAM_JOB_SKILL_GAP_ANALYSIS",
+      "name": "Skill Gap & Readiness Analysis",
+      "component_type": "analytical_case_study",
+      "deliverable_type": "document",
+      "objective": "Assess current skills against target role requirements",
+      "business_value": "Identifies high-impact skills to prioritize for learning and portfolio development",
+      "files": [
+        "skills_analysis.md"
+      ],
+      "tools": [
+        { "tool_label": "Markdown", "tool_keyword": "markdown" }
+      ],
+      "skills": [
+        { "skill_keyword": "skill_gap_analysis", "weight": 0.6 },
+        { "skill_keyword": "self_assessment", "weight": 0.4 }
+      ]
+    },
+
+    {
+      "component_id": "COMP_DREAM_JOB_ACTION_PLAN",
+      "name": "Career Action Plan",
+      "component_type": "strategic_planning",
+      "deliverable_type": "document",
+      "objective": "Translate insights into an actionable career development roadmap",
+      "business_value": "Turns abstract career goals into concrete next steps",
+      "files": [
+        "action_plan.md"
+      ],
+      "tools": [
+        { "tool_label": "Markdown", "tool_keyword": "markdown" }
+      ],
+      "skills": [
+        { "skill_keyword": "career_planning", "weight": 0.7 }
+      ]
+    }
+  ]
+}
