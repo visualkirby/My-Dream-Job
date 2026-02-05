@@ -38,22 +38,20 @@
     {
       "dataset_key": "analysis_notes",
       "dataset_value": "Dream Job Role Criteria and Skill Mapping",
-      "dataset_link": ""
+      "dataset_link": "https://gcps.scdata.ai/user/blog/Sawandi_Kirby"
     }
   ],
 
   "components": [
     {
-      "component_id": "COMP_DREAM_JOB_ROLE_DEFINITION",
-      "name": "Target Role Definition",
+      "component_id": "COMP_DREAM_JOB_BY_REGION",
+      "name": "My Dream Job by Region",
       "component_type": "strategic_analysis",
       "deliverable_type": "document",
-      "objective": "Define the characteristics, responsibilities, and expectations of an ideal target role",
-      "business_value": "Provides a clear benchmark for evaluating job opportunities and aligning portfolio projects",
-      "files": [
-        "My_Dream_Job.md",
-        "README.md"
-      ],
+      "objective": "Identify optimal U.S. regions for a Supply Chain Analyst career in Consumer Staples, Industrials, and Information Technology based on economic viability.",
+      "business_value": "Improved workforce placement strategy by identifying high-viability U.S. regions for supply chain roles using economic and industry benchmarks.",
+      "component_link": "https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Region.pdf",
+      "files": ["My_Dream_Job.pdf"],
       "tools": [
         { "tool_label": "Markdown", "tool_keyword": "markdown" }
       ],
@@ -64,15 +62,14 @@
     },
 
     {
-      "component_id": "COMP_DREAM_JOB_SKILL_GAP_ANALYSIS",
-      "name": "Skill Gap & Readiness Analysis",
+      "component_id": "COMP_DREAM_JOB_BY_INDUSTRY",
+      "name": "My Dream Job by Industry",
       "component_type": "analytical_case_study",
       "deliverable_type": "document",
-      "objective": "Assess current skills against target role requirements",
-      "business_value": "Identifies high-impact skills to prioritize for learning and portfolio development",
-      "files": [
-        "skills_analysis.md"
-      ],
+      "objective": "Determine the most stable industry for Supply Chain Analysts using profitability, growth, and financial health benchmarks.",
+      "business_value": "Assessed industry stability using profitability and growth metrics to guide long-term workforce and investment strategy.",
+      "component_link": "https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Industry.pdf",
+      "files": ["My_Dream_Job_by_Industry.pdf"],
       "tools": [
         { "tool_label": "Markdown", "tool_keyword": "markdown" }
       ],
@@ -83,15 +80,14 @@
     },
 
     {
-      "component_id": "COMP_DREAM_JOB_ACTION_PLAN",
-      "name": "Career Action Plan",
+      "component_id": "COMP_DREAM_JOB_BY_COMPANY",
+      "name": "My Dream Job by Company",
       "component_type": "strategic_planning",
       "deliverable_type": "document",
-      "objective": "Translate insights into an actionable career development roadmap",
-      "business_value": "Turns abstract career goals into concrete next steps",
-      "files": [
-        "action_plan.md"
-      ],
+      "objective": "Pinpoint top Consumer Staples companies in IL/VA using profit frontier analysis.",
+      "business_value": "Applied profit frontier analysis to identify top-performing Consumer Staples firms in Illinois and Virginia.",
+      "component_link": "https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Company.pdf",
+      "files": ["My_Dream_Job_by_Company.pdf"],
       "tools": [
         { "tool_label": "Markdown", "tool_keyword": "markdown" }
       ],
