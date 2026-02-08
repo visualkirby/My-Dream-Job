@@ -4,7 +4,7 @@
 
   "title": "My Dream Job Analysis",
   "short_summary": "Structured analysis of target roles, skills, and career positioning strategy",
-  "summary": "Career strategy and analytics project focused on defining an ideal role profile, identifying skill gaps, and aligning technical and domain experience with long-term professional goals. Combines qualitative reasoning with structured analysis to guide portfolio development and job targeting.",
+  "summary": "Career strategy and analytics project focused on defining an ideal role profile, identifying skill gaps, and aligning technical and domain experience with long-term professional goals. Combines structured reasoning with documented analysis to guide portfolio development and job targeting.",
 
   "role_scope": "base|operations|supply_chain",
 
@@ -16,7 +16,7 @@
     "Self-Assessment",
     "Strategic Planning"
   ],
-  
+
   "repo_link": "https://github.com/visualkirby/My-Dream-Job",
 
   "domains": [
@@ -37,9 +37,16 @@
   "datasets": [
     {
       "dataset_key": "analysis_notes",
-      "dataset_value": "Dream Job Role Criteria and Skill Mapping",
+      "dataset_value": "Dream job role criteria and skill mapping notes",
       "dataset_link": "https://gcps.scdata.ai/user/blog/Sawandi_Kirby"
     }
+  ],
+
+  "roles": [
+    "Supply Chain Analyst",
+    "Operations Analyst",
+    "Logistics Coordinator",
+    "Operations Coordinator"
   ],
 
   "components": [
@@ -47,52 +54,93 @@
       "component_id": "COMP_DREAM_JOB_BY_REGION",
       "name": "My Dream Job by Region",
       "component_type": "strategic_analysis",
-      "deliverable_type": "document",
-      "objective": "Identify optimal U.S. regions for a Supply Chain Analyst career in Consumer Staples, Industrials, and Information Technology based on economic viability.",
-      "business_value": "Improved workforce placement strategy by identifying high-viability U.S. regions for supply chain roles using economic and industry benchmarks.",
+      "deliverable_type": "report",
+
+      "objective": "Identify high-viability U.S. regions for Supply Chain Analyst roles by comparing economic strength and industry concentration across Consumer Staples, Industrials, and Information Technology.",
+      "business_value": "Improves job targeting efficiency by prioritizing regions where supply chain roles align with strong economic indicators and resilient industry demand.",
+
       "component_link": "https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Region.pdf",
-      "files": ["My_Dream_Job.pdf"],
+
+      "files": [
+        "My_Dream_Job_by_Region.pdf"
+      ],
+
       "tools": [
         { "tool_label": "Markdown", "tool_keyword": "markdown" }
       ],
+
       "skills": [
-        { "skill_keyword": "role_analysis", "weight": 0.6 },
-        { "skill_keyword": "strategic_thinking", "weight": 0.4 }
+        {
+          "skill_label": "Role Analysis",
+          "skill_keyword": "role_analysis",
+          "weight": 0.6
+        },
+        {
+          "skill_label": "Strategic Thinking",
+          "skill_keyword": "strategic_thinking",
+          "weight": 0.4
+        }
       ]
     },
 
     {
       "component_id": "COMP_DREAM_JOB_BY_INDUSTRY",
       "name": "My Dream Job by Industry",
-      "component_type": "analytical_case_study",
-      "deliverable_type": "document",
-      "objective": "Determine the most stable industry for Supply Chain Analysts using profitability, growth, and financial health benchmarks.",
-      "business_value": "Assessed industry stability using profitability and growth metrics to guide long-term workforce and investment strategy.",
+      "component_type": "strategic_analysis",
+      "deliverable_type": "report",
+
+      "objective": "Evaluate industry stability for Supply Chain Analyst career paths using profitability, growth, and financial health benchmarks across major sectors.",
+      "business_value": "Reduces career risk by identifying industries with stronger long-term stability signals, improving alignment between target roles and durable market demand.",
+
       "component_link": "https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Industry.pdf",
-      "files": ["My_Dream_Job_by_Industry.pdf"],
+
+      "files": [
+        "My_Dream_Job_by_Industry.pdf"
+      ],
+
       "tools": [
         { "tool_label": "Markdown", "tool_keyword": "markdown" }
       ],
+
       "skills": [
-        { "skill_keyword": "skill_gap_analysis", "weight": 0.6 },
-        { "skill_keyword": "self_assessment", "weight": 0.4 }
+        {
+          "skill_label": "Skill Gap Analysis",
+          "skill_keyword": "skill_gap_analysis",
+          "weight": 0.6
+        },
+        {
+          "skill_label": "Self Assessment",
+          "skill_keyword": "self_assessment",
+          "weight": 0.4
+        }
       ]
     },
 
     {
       "component_id": "COMP_DREAM_JOB_BY_COMPANY",
       "name": "My Dream Job by Company",
-      "component_type": "strategic_planning",
-      "deliverable_type": "document",
-      "objective": "Pinpoint top Consumer Staples companies in IL/VA using profit frontier analysis.",
-      "business_value": "Applied profit frontier analysis to identify top-performing Consumer Staples firms in Illinois and Virginia.",
+      "component_type": "strategic_analysis",
+      "deliverable_type": "report",
+
+      "objective": "Identify top Consumer Staples employers in IL/VA by comparing profitability, efficiency, and competitive positioning using a profit frontier approach.",
+      "business_value": "Improves employer targeting by narrowing the search to firms that combine strong financial performance with favorable operating profiles in the selected regions.",
+
       "component_link": "https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Company.pdf",
-      "files": ["My_Dream_Job_by_Company.pdf"],
+
+      "files": [
+        "My_Dream_Job_by_Company.pdf"
+      ],
+
       "tools": [
         { "tool_label": "Markdown", "tool_keyword": "markdown" }
       ],
+
       "skills": [
-        { "skill_keyword": "career_planning", "weight": 0.7 }
+        {
+          "skill_label": "Career Planning",
+          "skill_keyword": "career_planning",
+          "weight": 0.7
+        }
       ]
     }
   ]
