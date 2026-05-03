@@ -2,7 +2,7 @@
 **Data-Driven Career Strategy for Supply Chain Analysts**  
 
 ## 📍 Section 1: My Dream Job by Region  
-[View Full Analysis](https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Region.pdf)  
+[![📄 View Full Analysis](https://img.shields.io/badge/📄_View_Full_Analysis-03a6a5)](https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Region.pdf)  
 
 ### 🎯 Objective  
 Identify optimal U.S. regions for a Supply Chain Analyst career in **Consumer Staples**, **Industrials**, and **Information Technology** based on economic viability.  
@@ -23,7 +23,7 @@ Identify optimal U.S. regions for a Supply Chain Analyst career in **Consumer St
 ---
 
 ## 🏭 Section 2: My Dream Job by Industry  
-[View Full Analysis](https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Industry.pdf)  
+[![📄 View Full Analysis](https://img.shields.io/badge/📄_View_Full_Analysis-03a6a5)](https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Industry.pdf)  
 
 ### 🎯 Objective  
 Determine the most stable industry for Supply Chain Analysts using **profitability**, **growth**, and **financial health** benchmarks.  
@@ -44,7 +44,7 @@ Determine the most stable industry for Supply Chain Analysts using **profitabili
 ---
 
 ## 🏢 Section 3: My Dream Job by Company  
-[View Full Analysis](https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Company.pdf)  
+[![📄 View Full Analysis](https://img.shields.io/badge/📄_View_Full_Analysis-03a6a5)](https://github.com/visualkirby/My-Dream-Job/blob/main/My_Dream_Job_by_Company.pdf)  
 
 ### 🎯 Objective  
 Pinpoint top **Consumer Staples** companies in IL/VA using profit frontier analysis.  
@@ -69,6 +69,15 @@ This project demonstrates my ability to:
 🔹 **Evaluate tradeoffs** between stability vs. growth  
 🔹 **Leverage domain knowledge** from Whole Foods/UPS/Walmart  
 
-**Next Steps:** Targeting Altria (VA) and Kellanova (IL) roles while continuing skill development in supply chain analytics.  
+---
 
-[**View Full Project Repository**](https://github.com/visualkirby/My-Dream-Job)  
+## Author
+
+**Sawandi Kirby**
+
+Data Analytics & Business Intelligence  
+Benchline Analytics — Freelance data consultancy focused on K-12 schools and medical practices.
+
+- GitHub: https://github.com/visualkirby
+- LinkedIn: https://linkedin.com/in/sawandi-kirby
+- Kaggle: https://kaggle.com/sawandikirby
